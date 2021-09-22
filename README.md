@@ -2,6 +2,8 @@
 
 Self-training project from Udemy
 
+https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/
+
 - Angular
 - NodeJS
 - Express
