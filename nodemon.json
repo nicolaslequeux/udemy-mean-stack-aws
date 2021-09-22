@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PASSWORD": "arco123",
+    "JWT_KEY": "secret_long_string"
+  }
+}
